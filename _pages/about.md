@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lin Mu ()"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Lin Mu is an Associate Professor at the School of Computer Science and Technology, Anhui University. He received his Ph.D. degree in Computer Application Technology from the University of Science and Technology of China (USTC) in April 2021. His primary research interests include natural language processing, large language model inference, and parameter-efficient fine-tuning methods. In recent years, he has published over 20 papers in leading international conferences and journals, including ACL, WWW, EMNLP, and TBD. He also serves as a reviewer for several top-tier international conferences such as ACL, EMNLP, NAACL, SIGIR, and AAAI.
 
-A data-driven personal website
+News
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -20,14 +20,16 @@ For those users that need more advanced functionality, the template also support
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Li Ni, Shuaikang Zeng, **Lin Mu**(Corresponding author) and Longlong Lin: From Representation to Clusters: A Contrastive Learning Approach for Attributed Hypergraph Clustering. The Web Conference 2026
+- **Lin Mu**, Xiaoyu Wang, Li Ni, Yang Li, Zhize Wu, Peiquan Jin, Yiwen Zhang: DenseLoRA: Dense Low-Rank Adaptation of Large Language Models. ACL 2025
+- **Lin Mu**, Jun Shen, Li Ni, Lei Sang, Zhize Wu, Peiquan Jin, Yiwen Zhang: DICP: Deep In-Context Prompt for Event Causality Identification. EMNLP 2025
+- **Lin Mu**, Yide Cheng, Jun Shen, Yiwen Zhang, Hong Zhong:NetPrompt: Neural Network Prompting Enhances Event Extraction in Large Language Models. IEEE Transactions on Big Data 2025
+- Li Ni, Haowen Shen, **Lin Mu**, Yiwen Zhang, Wenjian Luo: ComGPT: Detecting Local Community Structure With Large Language Models. IEEE Transactions on Computational Social Systems 2025
+- **Lin Mu**, Wenhao Zhang, Yiwen Zhang, Peiquan Jin: DDPrompt: Differential Diversity Prompting in Large Language Models. ACL 2024（CCF A）
+- **Lin Mu**, Peiquan Jin, Yiwen Zhang, Hong Zhong, Jie Zhao: Synonym Recognition from Short Texts: A Self-Supervised Learning Approach. ESWA 2023
+
 
 Site-wide configuration
 ------
