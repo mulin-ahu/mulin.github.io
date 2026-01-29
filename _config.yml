@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Lin Mu"
 title_separator          : "-"
 name                     : &name "Lin Mu"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Associate professor at Anhui University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mulin-ahu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mulin-ahu/mulin.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile2.HEIC"
   name             : "Lin Mu"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Anhui University"
   uri              : # URL
